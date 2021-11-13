@@ -1,4 +1,6 @@
-# Zhijiang-Acadmy-of-Fine-Art-WEB
+# 枝江美术学院 Zhijiang Academy of Fine Arts
+
+官网：[www.zafa.ac.cn](//www.zafa.ac.cn)
 
 Hello here are all HTML and CSS files of Zhijiang Academy of Fine Arts, I'd like to invite you to maintain this website together.Thanks！
 
