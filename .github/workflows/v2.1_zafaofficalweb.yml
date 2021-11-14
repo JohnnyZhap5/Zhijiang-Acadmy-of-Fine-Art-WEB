@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'zafaofficalweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_847B8C599CED46F78304A4A62F412210 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8786D8D8490144DAAB9D68B014D82EE1 }}
           package: .
